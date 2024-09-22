@@ -3,7 +3,7 @@ using System.Reflection;
 using Chickensoft.GoDotTest;
 using Godot;
 
-namespace ComplexShapeCreation.Tests;
+namespace SimplifiedShapeCreation.Tests;
 
 public partial class TestRunner : Node
 {

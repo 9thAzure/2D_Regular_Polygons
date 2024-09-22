@@ -23,7 +23,7 @@ window/stretch/mode="canvas_items"
 
 [dotnet]
 
-project/assembly_name="ComplexShapeCreation"
+project/assembly_name="SimplifiedShapeCreation"
 
 [editor_plugins]
 

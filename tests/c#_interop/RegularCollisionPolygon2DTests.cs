@@ -2,10 +2,10 @@
 using Chickensoft.GoDotLog;
 using Chickensoft.GoDotTest;
 using Godot;
-using ComplexShapeCreation;
+using SimplifiedShapeCreation;
 using Shouldly;
 
-namespace ComplexShapeCreation.Tests;
+namespace SimplifiedShapeCreation.Tests;
 
 public class RegularCollisionPolygon2DTests : TestClass
 {

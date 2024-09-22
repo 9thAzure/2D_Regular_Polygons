@@ -1,9 +1,9 @@
 using System;
 using System.Diagnostics;
 using Godot;
-using ComplexShapeCreation.MemberNames;
+using SimplifiedShapeCreation.MemberNames;
 
-namespace ComplexShapeCreation;
+namespace SimplifiedShapeCreation;
 
 /// <summary>
 /// A Wrapper for a <see cref="CollisionShape2D"/> which contains the script specified in <see cref="GDScriptEquivalent"/>.

@@ -1,7 +1,7 @@
 using System;
 using Godot;
 
-namespace ComplexShapeCreation.MemberNames;
+namespace SimplifiedShapeCreation.MemberNames;
 
 public static class MethodName
 {

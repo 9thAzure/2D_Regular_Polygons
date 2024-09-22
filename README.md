@@ -11,7 +11,7 @@ An addon for the  [Godot Engine](https://godotengine.org/) which adds several fu
 and a few nodes that uses those functions for creating visuals or for creating collision shapes.
 
 These functions and nodes are written in GDScript to make them universally compatible.
-They are exposed to C# via wrapper classes in the `ComplexShapeCreation` namespace. 
+They are exposed to C# via wrapper classes in the `SimplifiedShapeCreation` namespace. 
 
 > [!NOTE]
 > Most of the functions for modifying shapes have a slightly different signature in C# compared to GDScript.
