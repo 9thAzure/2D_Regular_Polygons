@@ -12,7 +12,7 @@ namespace ComplexShapeCreation;
 public class StarPolygon2D
 {
     /// <inheritdoc cref="SimplePolygon2D.GDScriptEquivalentPath"/>
-    public const string GDScriptEquivalentPath = "res://addons/complex_shape_creation/star_polygon_2d/star_polygon_2d.gd";
+    public const string GDScriptEquivalentPath = "res://addons/simplified_shape_creation/star_polygon_2d/star_polygon_2d.gd";
     /// <summary>The loaded <see cref="GDScript"/> of <see cref="GDScriptEquivalentPath"/>.</summary>
     public static readonly GDScript GDScriptEquivalent = GD.Load<GDScript>(GDScriptEquivalentPath);
     private static readonly Lazy<Polygon2D> _shared = new(() => GDScriptEquivalent.New().As<Polygon2D>());

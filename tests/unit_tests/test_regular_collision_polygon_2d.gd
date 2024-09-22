@@ -32,7 +32,7 @@ func assert_eq_shape(a : Shape2D, b : Shape2D, error_interval : float) -> void:
 	
 	assert_almost_eq_deep(points1, points2, Vector2.ONE * error_interval)
 
-var class_script := preload("res://addons/complex_shape_creation/regular_collision_polygon_2d/regular_collision_polygon_2d.gd")
+var class_script := preload("res://addons/simplified_shape_creation/regular_collision_polygon_2d/regular_collision_polygon_2d.gd")
 
 func before_each():
 	ignore_method_when_doubling(class_script, "_init")

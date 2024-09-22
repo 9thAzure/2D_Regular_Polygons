@@ -1,5 +1,5 @@
 @tool
-@icon("res://addons/complex_shape_creation/regular_polygon_2d/regular_polygon_2d.svg")
+@icon("res://addons/simplified_shape_creation/regular_polygon_2d/regular_polygon_2d.svg")
 class_name RegularPolygon2D
 extends Polygon2D
 
@@ -327,7 +327,7 @@ func _init(vertices_count : int = 1, size := 10.0, offset_rotation := 0.0, color
 	
 # func _ready() -> void:
 # 	if Engine.is_editor_hint():
-# 		var control := preload("res://addons/complex_shape_creation/gui_handlers/size_rotation_handler.gd").new(self, 2)
+# 		var control := preload("res://addons/simplified_shape_creation/gui_handlers/size_rotation_handler.gd").new(self, 2)
 # 		add_child(control)
 
 func _get_configuration_warnings() -> PackedStringArray:

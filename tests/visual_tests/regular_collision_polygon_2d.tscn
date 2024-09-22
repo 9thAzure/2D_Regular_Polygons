@@ -1,7 +1,7 @@
 [gd_scene load_steps=37 format=3 uid="uid://dfpm3jcohi0is"]
 
 [ext_resource type="Script" path="res://tests/visual_tests/animation_manager.gd" id="1_sfqof"]
-[ext_resource type="Script" path="res://addons/complex_shape_creation/regular_collision_polygon_2d/regular_collision_polygon_2d.gd" id="2_okbtb"]
+[ext_resource type="Script" path="res://addons/simplified_shape_creation/regular_collision_polygon_2d/regular_collision_polygon_2d.gd" id="2_okbtb"]
 [ext_resource type="Script" path="res://tests/visual_tests/random_modulate.gd" id="3_ddpku"]
 [ext_resource type="Script" path="res://tests/visual_tests/table_display.gd" id="4_pyexj"]
 

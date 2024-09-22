@@ -1,5 +1,5 @@
 @tool
-@icon("res://addons/complex_shape_creation/star_polygon_2d/star_polygon_2d.svg")
+@icon("res://addons/simplified_shape_creation/star_polygon_2d/star_polygon_2d.svg")
 extends Polygon2D
 class_name StarPolygon2D
 

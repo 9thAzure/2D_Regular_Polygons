@@ -12,7 +12,7 @@ namespace ComplexShapeCreation;
 public class RegularCollisionPolygon2D
 {
     /// <inheritdoc cref="SimplePolygon2D.GDScriptEquivalentPath"/>
-    public const string GDScriptEquivalentPath = "res://addons/complex_shape_creation/regular_collision_polygon_2d/regular_collision_polygon_2d.gd";
+    public const string GDScriptEquivalentPath = "res://addons/simplified_shape_creation/regular_collision_polygon_2d/regular_collision_polygon_2d.gd";
     /// <summary>The loaded <see cref="GDScript"/> of <see cref="GDScriptEquivalentPath"/>.</summary>
     public static readonly GDScript GDScriptEquivalent = GD.Load<GDScript>(GDScriptEquivalentPath);
     private static readonly Lazy<CollisionShape2D> _shared = new(() => GDScriptEquivalent.New().As<CollisionShape2D>());

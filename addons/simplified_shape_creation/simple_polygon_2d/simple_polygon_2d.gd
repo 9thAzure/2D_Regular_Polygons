@@ -1,5 +1,5 @@
 @tool
-@icon("res://addons/complex_shape_creation/simple_polygon_2d/simple_polygon_2d.svg")
+@icon("res://addons/simplified_shape_creation/simple_polygon_2d/simple_polygon_2d.svg")
 class_name SimplePolygon2D
 extends Node2D
 
@@ -110,7 +110,7 @@ func _init(vertices_count : int = 1, size := 10.0, offset_rotation := 0.0, color
 
 # func _ready() -> void:
 # 	if Engine.is_editor_hint():
-# 		var control := preload("res://addons/complex_shape_creation/gui_handlers/size_rotation_handler.gd").new(self)
+# 		var control := preload("res://addons/simplified_shape_creation/gui_handlers/size_rotation_handler.gd").new(self)
 # 		add_child(control)
 
 static var _circle := get_shape_vertices(32)

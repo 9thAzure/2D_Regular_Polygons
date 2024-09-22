@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://y2xtpyb5bwji"
-path="res://.godot/imported/regular_collision_polygon_2d.svg-f277341a4f25b406f44ca3b278330ade.ctex"
+path="res://.godot/imported/regular_collision_polygon_2d.svg-473c98f8d129567791cee840da8762b4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/complex_shape_creation/regular_collision_polygon_2d/regular_collision_polygon_2d.svg"
-dest_files=["res://.godot/imported/regular_collision_polygon_2d.svg-f277341a4f25b406f44ca3b278330ade.ctex"]
+source_file="res://addons/simplified_shape_creation/regular_collision_polygon_2d/regular_collision_polygon_2d.svg"
+dest_files=["res://.godot/imported/regular_collision_polygon_2d.svg-473c98f8d129567791cee840da8762b4.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bae2khixx43v6"
-path="res://.godot/imported/regular_polygon_2d.svg-771c8069b0492403fc0e19110c06eecb.ctex"
+path="res://.godot/imported/regular_polygon_2d.svg-5990f4706039cdf7fae955f77a101e2d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/complex_shape_creation/regular_polygon_2d/regular_polygon_2d.svg"
-dest_files=["res://.godot/imported/regular_polygon_2d.svg-771c8069b0492403fc0e19110c06eecb.ctex"]
+source_file="res://addons/simplified_shape_creation/regular_polygon_2d/regular_polygon_2d.svg"
+dest_files=["res://.godot/imported/regular_polygon_2d.svg-5990f4706039cdf7fae955f77a101e2d.ctex"]
 
 [params]
 

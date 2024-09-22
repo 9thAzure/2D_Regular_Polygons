@@ -25,8 +25,8 @@ func _edit(object : Object) -> void:
 		_size_rotation_handler.request_ready()
 		object.add_child(_size_rotation_handler, false, INTERNAL_MODE_BACK)
 
-const BaseHandler := preload("res://addons/complex_shape_creation/gui_handlers/base_handler.gd")
-const SizeRotationHandler := preload("res://addons/complex_shape_creation/gui_handlers/size_rotation_handler.gd")
+const BaseHandler := preload("res://addons/simplified_shape_creation/gui_handlers/base_handler.gd")
+const SizeRotationHandler := preload("res://addons/simplified_shape_creation/gui_handlers/size_rotation_handler.gd")
 var _size_rotation_handler : SizeRotationHandler
 func _make_visible(visible) -> void:
 	if visible:

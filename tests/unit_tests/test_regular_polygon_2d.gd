@@ -1,6 +1,6 @@
 extends GutCollectionTest
 
-var class_script := preload("res://addons/complex_shape_creation/regular_polygon_2d/regular_polygon_2d.gd")
+var class_script := preload("res://addons/simplified_shape_creation/regular_polygon_2d/regular_polygon_2d.gd")
 var sample_polygon := PackedVector2Array([Vector2.ONE, Vector2.RIGHT, Vector2.LEFT])
 
 func before_each():
