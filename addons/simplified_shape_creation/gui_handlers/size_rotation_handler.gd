@@ -1,5 +1,5 @@
 @tool
-extends "res://addons/complex_shape_creation/gui_handlers/base_handler.gd"
+extends "res://addons/simplified_shape_creation/gui_handlers/base_handler.gd"
 
 var shape_type : int = 0
 

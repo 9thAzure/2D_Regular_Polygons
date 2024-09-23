@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cs6cmelpvo02r"
-path="res://.godot/imported/star_polygon_2d.svg-29c28efd651b9297549f41af6403676e.ctex"
+uid="uid://p02py6a2e6d"
+path="res://.godot/imported/simple_polygon_2d.svg-126e06dedf1af4fdde8c5666c3efa62d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/complex_shape_creation/star_polygon_2d/star_polygon_2d.svg"
-dest_files=["res://.godot/imported/star_polygon_2d.svg-29c28efd651b9297549f41af6403676e.ctex"]
+source_file="res://addons/simplified_shape_creation/simple_polygon_2d/simple_polygon_2d.svg"
+dest_files=["res://.godot/imported/simple_polygon_2d.svg-126e06dedf1af4fdde8c5666c3efa62d.ctex"]
 
 [params]
 

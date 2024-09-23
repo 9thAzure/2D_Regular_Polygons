@@ -1,9 +1,9 @@
 # Normalize EOL for all files that Git considers text files.
 * text=auto eol=lf
 
-# Only include /assets/complex_shape_creation/* for download from the asset store.
+# Only include /assets/simplified_shape_creation/* for download from the asset store.
 *                                  export-ignore
 
 /addons                           -export-ignore
-/addons/complex_shape_creation    -export-ignore
-/addons/complex_shape_creation/** -export-ignore
+/addons/simplified_shape_creation    -export-ignore
+/addons/simplified_shape_creation/** -export-ignore

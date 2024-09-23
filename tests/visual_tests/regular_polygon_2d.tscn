@@ -1,7 +1,7 @@
 [gd_scene load_steps=15 format=3 uid="uid://degar40vop7x7"]
 
 [ext_resource type="Script" path="res://tests/visual_tests/animation_manager.gd" id="1_sr2p8"]
-[ext_resource type="Script" path="res://addons/complex_shape_creation/regular_polygon_2d/regular_polygon_2d.gd" id="2_1qxsu"]
+[ext_resource type="Script" path="res://addons/simplified_shape_creation/regular_polygon_2d/regular_polygon_2d.gd" id="2_1qxsu"]
 [ext_resource type="Script" path="res://tests/visual_tests/random_modulate.gd" id="3_nrm88"]
 [ext_resource type="Script" path="res://tests/visual_tests/table_display.gd" id="4_uo0ld"]
 

@@ -1,9 +1,9 @@
 using System;
 using System.Diagnostics;
 using Godot;
-using ComplexShapeCreation.MemberNames;
+using SimplifiedShapeCreation.MemberNames;
 
-namespace ComplexShapeCreation;
+namespace SimplifiedShapeCreation;
 
 /// <summary>
 /// A Wrapper for a <see cref="Node2D"/> which contains the script specified in <see cref="SimplePolygon2D.GDScriptEquivalent"/>.
@@ -12,7 +12,7 @@ namespace ComplexShapeCreation;
 public partial class SimplePolygon2D
 {
     /// <summary>The string path to the script this class wraps around.</summary>
-    public const string GDScriptEquivalentPath = "res://addons/complex_shape_creation/simple_polygon_2d/simple_polygon_2d.gd";
+    public const string GDScriptEquivalentPath = "res://addons/simplified_shape_creation/simple_polygon_2d/simple_polygon_2d.gd";
     /// <summary>The loaded <see cref="GDScript"/> of <see cref="GDScriptEquivalentPath"/>.</summary>
     public static readonly GDScript GDScriptEquivalent = GD.Load<GDScript>(GDScriptEquivalentPath);
     private static readonly Lazy<Node2D> _shared = new(() => GDScriptEquivalent.New().As<Node2D>());
