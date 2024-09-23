@@ -1,4 +1,4 @@
-# Complex Shape Creation
+# Simplified Shape Creation
 
 ![Regular Polygon 2D icon](/addons/simplified_shape_creation/regular_polygon_2d/regular_polygon_2d.svg)
 
